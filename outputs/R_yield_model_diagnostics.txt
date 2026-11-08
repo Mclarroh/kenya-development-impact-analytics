@@ -1,0 +1,24 @@
+
+Call:
+lm(formula = crop_yield_kg_per_acre ~ treatment_group * post +
+    county, data = yield_model_data)
+
+Residuals:
+    Min      1Q  Median      3Q     Max
+-690.89 -127.42   -4.08  124.75  759.58
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)
+(Intercept)           867.184     15.998  54.206  < 2e-16 ***
+treatment_group        -5.171     16.745  -0.309    0.758
+post                   88.138     18.234   4.834 1.52e-06 ***
+countyKitui          -115.122     16.530  -6.964 5.44e-12 ***
+countyNyeri            98.828     16.304   6.062 1.80e-09 ***
+countySiaya           -19.352     16.375  -1.182    0.238
+treatment_group:post  200.772     23.606   8.505  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 200.6 on 1193 degrees of freedom
+Multiple R-squared:  0.3399,	Adjusted R-squared:  0.3366
+F-statistic: 102.4 on 6 and 1193 DF,  p-value: < 2.2e-16

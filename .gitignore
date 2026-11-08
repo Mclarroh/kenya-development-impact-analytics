@@ -1,0 +1,29 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache and test files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# R temporary and session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files and logs
+*.tmp
+*.log
+
+# Analytical outputs are intentionally included in this repository.
+# The project uses synthetic data, not real beneficiary records.

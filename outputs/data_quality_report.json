@@ -1,0 +1,32 @@
+{
+  "input_rows": 1200,
+  "output_rows": 1200,
+  "duplicate_beneficiary_wave_records_removed": 0,
+  "range_issues_by_variable": {
+    "age": 0,
+    "land_size_acres": 0,
+    "crop_yield_kg_per_acre": 0,
+    "monthly_household_income_kes": 0,
+    "climate_smart_practices_adopted": 0,
+    "food_security_score": 0,
+    "training_sessions_attended": 0
+  },
+  "missing_values_by_variable": {
+    "beneficiary_id": 0,
+    "county": 0,
+    "treatment_group": 0,
+    "survey_wave": 0,
+    "age": 0,
+    "gender": 0,
+    "land_size_acres": 0,
+    "crop_yield_kg_per_acre": 0,
+    "monthly_household_income_kes": 14,
+    "climate_smart_practices_adopted": 0,
+    "food_security_score": 9,
+    "training_sessions_attended": 7,
+    "survey_date": 0,
+    "post": 0,
+    "programme_group": 0,
+    "yield_per_acre": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "project": "Kenya Development Impact Analytics",
+  "level": "Intermediate",
+  "languages": [
+    "Python",
+    "R"
+  ],
+  "dataset": "Synthetic fictional dataset; 600 beneficiaries, two waves",
+  "created": "2026-11-07"
+}

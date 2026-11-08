@@ -1,0 +1,5 @@
+outcome,estimate,robust_se,statistic,p_value,n,interpretation,ci_lower_95,ci_upper_95,statistically_significant_5pct
+crop_yield_kg_per_acre,200.77203933699593,23.963064605554834,8.378395778745901,1.4912440374544787e-16,1200,Treatment group's additional change relative to comparison group,153.80443271010847,247.7396459638834,TRUE
+monthly_household_income_kes,1816.10693101575,350.29827428278094,5.184458686626826,2.5474516479101554e-7,1186,Treatment group's additional change relative to comparison group,1129.5223134214993,2502.6915486100006,TRUE
+climate_smart_practices_adopted,1.9663650214691282,0.18643477316685797,10.547200975803175,6.2927256964853565e-25,1200,Treatment group's additional change relative to comparison group,1.6009528660620864,2.33177717687617,TRUE
+food_security_score,0.543818622030185,0.10197856133514883,5.332675955713328,1.158351933763665e-7,1191,Treatment group's additional change relative to comparison group,0.3439406418132933,0.7436966022470768,TRUE

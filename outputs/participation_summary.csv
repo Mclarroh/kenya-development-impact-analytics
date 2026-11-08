@@ -1,0 +1,17 @@
+county,programme_group,survey_wave,beneficiary_records,mean_training_sessions
+Bungoma,Comparison,Baseline,71,1.8169014084507042
+Bungoma,Comparison,Endline,71,2.788732394366197
+Bungoma,Treatment,Baseline,80,3.5125
+Bungoma,Treatment,Endline,80,4.1875
+Kitui,Comparison,Baseline,47,2.066666666666667
+Kitui,Comparison,Endline,47,2.7872340425531914
+Kitui,Treatment,Baseline,100,3.6666666666666665
+Kitui,Treatment,Endline,100,3.888888888888889
+Nyeri,Comparison,Baseline,65,2.169230769230769
+Nyeri,Comparison,Endline,65,2.4615384615384617
+Nyeri,Treatment,Baseline,87,3.395348837209302
+Nyeri,Treatment,Endline,87,4.2298850574712645
+Siaya,Comparison,Baseline,59,1.8103448275862069
+Siaya,Comparison,Endline,59,2.4827586206896552
+Siaya,Treatment,Baseline,91,3.0
+Siaya,Treatment,Endline,91,4.175824175824176
