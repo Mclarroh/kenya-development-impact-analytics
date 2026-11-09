@@ -78,13 +78,27 @@ R performs:
 - Statistical significance assessment.
 - Model diagnostics.
 
-### Stage 3: Dashboard reporting
+### Stage 3: ## Power BI Dashboard Preview
 
-Power BI provides an interactive presentation of the synthetic programme data and analytical indicators.
+The project includes an interactive Power BI dashboard designed to support programme monitoring, household welfare analysis and impact evaluation.
 
-Dashboard file:
+The dashboard contains two report pages:
 
-`dashboard/Kenya_Development_Impact_Dashboard.pbix`
+Household Welfare
+
+This page presents beneficiary-level programme monitoring indicators, including household income, crop yield, food security and programme participation. Users can explore results by county, survey wave and programme group.
+
+![Household Welfare Dashboard](dashboard/screenshots/household-welfare.png)
+
+Impact Evaluation
+
+This page presents the programme impact analysis, comparing treatment and comparison groups across baseline and endline survey waves.
+
+![Impact Evaluation Dashboard](dashboard/screenshots/impact-evaluation.png)
+
+**Note:** All data and findings displayed in these dashboards are synthetic and were created for demonstration and portfolio purposes. They do not represent actual programme results or verified impacts in Kenya.
+
+The interactive Power BI report is available in [`dashboard/Kenya_Development_Impact_Dashboard.pbix`](dashboard/Kenya_Development_Impact_Dashboard.pbix).
 
 ### Stage 4: Automated testing
 
